@@ -1,0 +1,22 @@
+.Cards{
+    display:flex;
+   flex-wrap:wrap;
+   background-color: rgb(224, 33, 33);
+   justify-content: space-around;
+   
+}
+
+.Card{
+padding:20px;
+    
+}
+button{
+    cursor:pointer;
+}
+
+h3{
+    color:yellow;
+}
+span{
+    color:rgb(13, 16, 20);
+}
